@@ -1,0 +1,7 @@
+# ─── Milvus Accessed Through Remote Deployment ────────────────────────────────
+
+uri: ""
+user: ""
+password: ""
+database: "hrde"
+collection: "reference"

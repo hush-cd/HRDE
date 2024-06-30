@@ -1,0 +1,9 @@
+vllm==0.4.0.post1
+elastic-transport==8.12.0 
+elasticsearch==8.0.0
+pymilvus==2.4.0
+sentence_transformers 
+loguru 
+tenacity 
+jieba 
+pandas

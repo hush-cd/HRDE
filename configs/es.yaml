@@ -1,0 +1,8 @@
+# ─── ElasticSearch Accessed Through Remote Deployment ────────────────────────────────
+
+host: ""
+port: "9200"
+user: ""
+password: ""
+index: "reference"
+search_field: "text"

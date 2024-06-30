@@ -1,0 +1,10 @@
+# ─── Models Accessed Through Local Deployment ────────────────────────────────
+
+Qwen_14B_Chat:
+    type: Local
+    url: ""
+
+Qwen_4B_Chat:
+    type: Local
+    url: ""
+
