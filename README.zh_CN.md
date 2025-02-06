@@ -11,7 +11,7 @@
 <a href="https://github.com/hush-cd/HRDE/issues">
     <img alt="GitHub Issues" src="https://img.shields.io/github/issues/hush-cd/HRDE?color=red">
 </a>
-<a href="">
+<a href="https://arxiv.org/abs/2407.00668">
     <img alt="arXiv Paper" src="https://img.shields.io/badge/Paper-arXiv-blue.svg">
 </a></p>
 
@@ -23,7 +23,6 @@
 - [快速开始](#快速开始)
 - [实验结果](#实验结果)
 - [联系我们](#联系我们)
-- [待办事项](#待办事项)
 - [引用](#引用)
 
 ## 介绍
@@ -88,8 +87,12 @@
 ## 实验结果
 <p align="center"><img src="./assets/result1.png" alt=""></p>
 <p align="center"><img src="./assets/result2.png" alt=""></p>
-
 <p align="center"><img src="./assets/result3.png" alt=""></p>
+
+## 数据集获取
+1. 模型微调以及评估数据集: [data/sft_data](https://github.com/hush-cd/HRDE/tree/main/data/sft_data)、[data/dev_data](https://github.com/hush-cd/HRDE/tree/main/data/dev_data).
+2. 参考文档数据集：[data/reference_data](https://github.com/hush-cd/HRDE/tree/main/data/reference_date)
+3. HealthRCN 数据集：[HealthRCN](https://huggingface.co/datasets/Hush-cd/HealthRCN)
 
 
 ## 联系我们
@@ -97,5 +100,13 @@
 
 ## 引用
 ```
-
+@misc{chen2024hrderetrievalaugmentedlargelanguage,
+      title={HRDE: Retrieval-Augmented Large Language Models for Chinese Health Rumor Detection and Explainability}, 
+      author={Yanfang Chen and Ding Chen and Shichao Song and Simin Niu and Hanyu Wang and Zeyun Tang and Feiyu Xiong and Zhiyu Li},
+      year={2024},
+      eprint={2407.00668},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.00668}, 
+}
 ```
