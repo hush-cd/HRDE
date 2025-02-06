@@ -1,2 +1,0 @@
-data/HealthRCN/HealthRCN_1.json.zip filter=lfs diff=lfs merge=lfs -text
-data/HealthRCN/HealthRCN_2.json.zip filter=lfs diff=lfs merge=lfs -text
