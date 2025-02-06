@@ -22,6 +22,7 @@
 - [项目结构](#项目结构)
 - [快速开始](#快速开始)
 - [实验结果](#实验结果)
+- [数据获取](#数据获取)
 - [联系我们](#联系我们)
 - [引用](#引用)
 
@@ -89,7 +90,7 @@
 <p align="center"><img src="./assets/result2.png" alt=""></p>
 <p align="center"><img src="./assets/result3.png" alt=""></p>
 
-## 数据集获取
+## 数据获取
 1. 模型微调以及评估数据集: [data/sft_data](https://github.com/hush-cd/HRDE/tree/main/data/sft_data)、[data/dev_data](https://github.com/hush-cd/HRDE/tree/main/data/dev_data).
 2. 参考文档数据集：[data/reference_data](https://github.com/hush-cd/HRDE/tree/main/data/reference_date)
 3. HealthRCN 数据集：[HealthRCN](https://huggingface.co/datasets/Hush-cd/HealthRCN)
